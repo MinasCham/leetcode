@@ -30,8 +30,7 @@ Output: [0,1]
 ```
 
 #### Constraints
-```math
-- 2 <= nums.length <= 10^4
-- -10^9 <= nums[i] <= 10^9
-- -10^9 <= target <= 10^9
-```
+
+- $2 <= nums.length <= 10^4$
+- $-10^9 <= nums[i] <= 10^9$
+- $-10^9 <= target <= 10^9$
