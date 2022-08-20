@@ -24,4 +24,4 @@ Explanation: There is no common prefix among the input strings.
 
 - $1 <= strs.length <= 200$
 - $0 <= strs[i].length <= 20$
-- `strs[i]` consists of only lowercase English letters.
+- $strs[i]$ consists of only lowercase English letters.
