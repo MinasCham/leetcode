@@ -12,7 +12,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)| [Python](./solutions/python/014_Longest_Common_Prefix/longestCommonPrefix.py) | Easy |
 |020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)| [Python](./solutions/python/020_Valid_Parentheses/validParentheses.py)| Easy |
 |021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)| [Python](./solutions/python/021_Merge_Two_Sorted_Lists/mergeTwoSortedLists.py)| Easy |
-|254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/234_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
 |876|[Middle of Linked List](https://leetcode.com/problems/middle-of-the-linked-list)| [Python](./solutions/python/876_MiddleOfLinkedList/middleOfLinkedList.py)| Easy |
