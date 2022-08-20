@@ -17,13 +17,6 @@ Output: true
 ![Linked List](https://assets.leetcode.com/uploads/2021/03/03/pal2linked-list.jpg)
 
 ```
-Input: list1 = [], list2 = []
-Output: []
-```
-
-### Example #3
-
-```
 Input: head = [1,2]
 Output: false
 ```
