@@ -1,6 +1,6 @@
 # Leetcode
 
-In this repository you can find my solutions to some Leetcode coding problems.
+In this repository you can find my solutions to some Leetcode coding problems. All descriptions of the problems found in the READMEs are taken from the Leetcode descriptions.
 
 ## Problems and solutions
 
