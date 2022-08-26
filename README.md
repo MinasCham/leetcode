@@ -22,6 +22,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Python](./solutions/python/069_Sqrtx/mySqrt.py)| Easy |
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](./solutions/python/070_ClimbStairs/climbStairs.py)| Easy |
 |083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Python](./solutions/python/083_RemoveDupsFromSortedList/deleteDuplicates.py)| Easy |
+|088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Python](./solutions/python/088_MergeSortedArray/merge.py)| Easy |
 |254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
