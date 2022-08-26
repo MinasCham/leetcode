@@ -25,6 +25,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Python](./solutions/python/088_MergeSortedArray/merge.py)| Easy |
 |094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Python](./solutions/python/094_BinaryTreeInorderTraversal/inorderTraversal.py)| Easy |
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python](./solutions/python/100_SameTree/isSameTree.py)| Easy |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Python](./solutions/python/101_SymmetricTree/isSymmetric.py)| Easy |
 |254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
