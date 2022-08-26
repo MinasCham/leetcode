@@ -20,6 +20,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |066|[Plus One](https://leetcode.com/problems/plus-one)| [Python](./solutions/python/066_PlusOne/plusOne.py)| Easy |
 |067|[Add Binary](https://leetcode.com/problems/add-binary)| [Python](./solutions/python/067_AddBinary/addBinary.py)| Easy |
 |069|[Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Python](./solutions/python/069_Sqrtx/mySqrt.py)| Easy |
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Python](./solutions/python/070_ClimbStairs/climbStairs.py)| Easy |
 |254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
