@@ -31,6 +31,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](./solutions/python/110_BalancedBinTree/isBalanced.py)| Easy |
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](./solutions/python/111_MinDepthOfBinTree/minDepth.py)| Easy |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [Python](./solutions/python/112_PathSum/hasPathSum.py)| Easy |
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](./solutions/python/118_PascalsTriangle/generate.py)| Easy |
 |254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
