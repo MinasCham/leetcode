@@ -30,6 +30,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Python](./solutions/python/108_ConvertArraytoBinSearchTree/sortedArrayToBST.py)| Easy |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Python](./solutions/python/110_BalancedBinTree/isBalanced.py)| Easy |
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Python](./solutions/python/111_MinDepthOfBinTree/minDepth.py)| Easy |
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)| [Python](./solutions/python/112_PathSum/hasPathSum.py)| Easy |
 |254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
