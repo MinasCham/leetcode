@@ -34,6 +34,7 @@ In this repository you can find my solutions to some Leetcode coding problems.
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Python](./solutions/python/118_PascalsTriangle/generate.py)| Easy |
 |119|[Pascal's Triangle 2](https://leetcode.com/problems/pascals-triangle-ii/)| [Python](./solutions/python/119_PascalsTriangleII/getRow.py)| Easy |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Python](./solutions/python/121_BestTime2BuyAndSellStock/maxProfit.py)| Easy |
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [Python](./solutions/python/125_ValidPalindrome/isPalindrome.py)| Easy |
 |254|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)| [Python](./solutions/python/254_PalindromeLinkedList/palindromeLinkedList.py) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)| [Python](./solutions/python/383_RansomNote/ransomNote.py) | Easy |
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)| [Python](./solutions/python/412_FizzBuzz/fizzbuzz.py) | Easy |
